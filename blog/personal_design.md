@@ -8,3 +8,6 @@
 - Head elements
     - Title - Patrick Lawler | Home
         - When I look at tabs seeing 'Home' first would not be that helpful, whereas seeing what the site is would
+
+- Hosting
+    - netlify
