@@ -1,7 +1,7 @@
 ---
 title: "Now"
 date: 2022-07-29T14:49:43-05:00
-draft: true
+draft: false
 ---
 
 ## Hobbies

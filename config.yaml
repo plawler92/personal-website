@@ -1,7 +1,7 @@
 baseUrl: "https://patricklawler.netlify.app"
 languageCode: "en-us"
 title: "Patrick Lawler"
-theme: "github.com/Mitrichius/hugo-theme-anubis"
+theme: "anubis"
 
 menu:
   main:
