@@ -1,0 +1,14 @@
+baseUrl: "http://example.org/"
+languageCode: "en-us"
+title: "Patrick Lawler"
+theme: "github.com/Mitrichius/hugo-theme-anubis"
+
+menu:
+  main:
+  - identifier: now
+    name: Now
+    title: Now
+    url: /now/
+
+params:
+  style: dark
