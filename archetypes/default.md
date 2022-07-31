@@ -1,6 +1,11 @@
----
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-draft: true
----
-
++++
+title = "{{ replace .Name "-" " " | title }}"
+author = "Patrick Lawler"
+type = "post"
+date = "{{ .Date }}"
+tags = [
+    "fitness",
+    "race"
+]
+draft = "true"
++++

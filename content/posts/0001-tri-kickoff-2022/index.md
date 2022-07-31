@@ -1,8 +1,9 @@
----
-title: "Triathlon Training Kickoff 2022"
-date: 2022-07-29T08:41:27-05:00
-draft: false
----
++++
+title = "Triathlon Training Kickoff 2022"
+date = 2022-07-29T08:41:27-05:00
+tags = ["fitness"]
+draft = false
++++
 
 ## First Training Day
 I consider this the first day of training for this years triathlon. It was the first brick (ride/run) I've done in awhile and it went pretty well. The morning started with a 37 mile round trip ride to the Chicago Botanic Gardens with a short break in between to enjoy the scenery. 

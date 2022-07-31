@@ -1,8 +1,9 @@
----
-title: "Forge Offroad Triathlon 2022"
-date: 2022-07-29T08:42:16-05:00
-draft: false
----
++++
+title = "Race Report - Forge Offroad Triathlon 2022"
+date = 2022-07-29T08:42:16-05:00
+tags = ["fitness", "race"]
+draft = false
++++
 
 ## Key Results
 ~40 people that started couldn't finish the race due to weather cancellation. Results are (Overall/Gender/Age)

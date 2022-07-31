@@ -1,0 +1,10 @@
+baseUrl = "https://patricklawler.netlify.app"
+languageCode = "en-us"
+title = "Patrick Lawler"
+theme = "anubis"
+
+[permalinks]
+    posts = "/posts/:year/:month/:slug/"
+
+[params]
+    style = "dark"
