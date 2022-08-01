@@ -4,7 +4,33 @@ title = "Patrick Lawler"
 theme = "anubis"
 
 [permalinks]
-    posts = "/posts/:year/:month/:slug/"
+posts = "/posts/:year/:month/:slug/"
+
+[menu]
+[[menu.main]]
+name = "Home"
+identifier = "home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "now"
+name = "Now"
+url = "/now/"
+weight = 2
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 3
+
+[[menu.main]]
+name = "Archive"
+identifier = "archive"
+url = "/posts/"
+weight = 4
 
 [params]
-    style = "dark"
+author = "Patrick Lawler"
+style = "dark"
